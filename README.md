@@ -1,19 +1,19 @@
 # 3×3 Mean Filter for Image Smoothing
 
-## 📌 Project Description
+##  Project Description
 
 This project demonstrates how to apply a **3×3 Mean (Average) Filter** to a grayscale image using Python.
 
 A mean filter is a simple **image smoothing technique**. It reduces small variations and noise in an image by replacing each pixel with the average value of the pixels in its 3×3 neighborhood.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * OpenCV (`cv2`)
 * NumPy
 * Matplotlib
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Mean-Filter/
